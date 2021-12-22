@@ -1,10 +1,4 @@
-### Hi there, welcome!!! 🙋🏻‍♀️
-
----
-layout: page
-title: About
-permalink: /about/
----
+## Hi there, welcome!!! 🙋🏻‍♀️
 
 I am **Archana Kalburgi**, a graduate student at **Stevens Institute of Technology**. I am pursuing masters in Computer science, specializing in **Machine Learning**.
 
