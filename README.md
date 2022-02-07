@@ -2,7 +2,7 @@
 
 I am **Archana Kalburgi**, a graduate student at **Stevens Institute of Technology**. I am pursuing masters in Computer science, specializing in **Machine Learning**.
 
-I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learning related to the same in some of my blog posts and [here](https://github.com/archanakalburgi/Algorithms). Hope you find them interesting. 
+I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learnings related to the same in [TukTuk](https://archanakalburgi.github.io/tuktuk/) and [here](https://github.com/archanakalburgi/Algorithms). Hope you find them interesting. 
 
 Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming are the courses that I have already completed and I am looking forward to take on Deep Learning, Introduction to Deep Learning and Business Applications and Web Mining courses. 
 
