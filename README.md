@@ -4,7 +4,8 @@ I am so glad you are here!! 💃🏻
 
 I am **Archana Kalburgi**, a graduate student at **Stevens Institute of Technology** 🎓, pursuing masters in Computer science, specializing in **Machine Learning**.
 
-I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learnings related to the same in [TukTuk](https://archanakalburgi.github.io/tuktuk/) 🐢 and [here](https://github.com/archanakalburgi/Algorithms). Hope you find them interesting.💡
+I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learnings related to the same [here](https://github.com/archanakalburgi/Algorithms) and [here](https://archanakalburgi.github.io/code_challenges/). My learnings related to Machine learning can be found at [TukTuk](https://archanakalburgi.github.io/tuktuk/) 🐢 
+I  Hope you find them interesting.💡
 
 Courses I have completed include Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming, Deep Learning, Introduction to Deep Learning and Business Applications and Web Mining. I am looking forward to learn more about big data through some of the courses like Big Data Technologies and Database Management Systems. 
 
