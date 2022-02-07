@@ -1,10 +1,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, welcome!!! 🙋🏻‍♀️
 
-I am **Archana Kalburgi**, a graduate student at **Stevens Institute of Technology**. I am pursuing masters in Computer science, specializing in **Machine Learning**.
+I am so glad you are here!! 💃🏻
 
-I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learnings related to the same in [TukTuk](https://archanakalburgi.github.io/tuktuk/) and [here](https://github.com/archanakalburgi/Algorithms). Hope you find them interesting. 
+I am **Archana Kalburgi**, a graduate student at **Stevens Institute of Technology** 🎓, pursuing masters in Computer science, specializing in **Machine Learning**.
 
-Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming are the courses that I have already completed and I am looking forward to take on Deep Learning, Introduction to Deep Learning and Business Applications and Web Mining courses. 
+I have currently invested my time in learning data structure and algorithms and how to tackle interview coding questions as I am looking for summer-2022 internship and full-time opportunities. You can find my learnings related to the same in [TukTuk](https://archanakalburgi.github.io/tuktuk/) 🐢 and [here](https://github.com/archanakalburgi/Algorithms). Hope you find them interesting.💡
+
+Courses I have completed include Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming, Deep Learning, Introduction to Deep Learning and Business Applications and Web Mining. I am looking forward to learn more about big data through some of the courses like Big Data Technologies and Database Management Systems. 
 
 I have gained deeper insights into machine learning algorithms through course project works, which can be accessed through the following links,
 - [Job change prediction](https://github.com/archanakalburgi/job_change_prediction_project)
