@@ -10,6 +10,8 @@ I  Hope you find them interesting.💡
 Courses I have completed include Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming, Deep Learning, Introduction to Deep Learning and Business Applications and Web Mining. I am looking forward to learn more about big data through some of the courses like Big Data Technologies and Database Management Systems. 
 
 I have gained deeper insights into machine learning algorithms through course project works, which can be accessed through the following links,
+- [Profile matcher](https://github.com/archanakalburgi/profile_matcher)
+- [Government policies and public sentiments](https://github.com/archanakalburgi/govt_policies_public_sentiments) 
 - [Job change prediction](https://github.com/archanakalburgi/job_change_prediction_project)
 - [Sentiment analysis of IMDB movie reviews](https://github.com/archanakalburgi/sentiment_analysis_imdb)
 
