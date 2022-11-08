@@ -15,6 +15,6 @@ I have gained deeper insights into machine learning algorithms through course pr
 
 If you have any suggestions or would like to get in touch with me please feel free to message me on my [linkedin](https://www.linkedin.com/in/archana-kalburgi/) 
 
-Dive into my Deepnote space [here](https://deepnote.com/workspace/archanakalburgi-00bcc156-9f71-49bf-9a59-db8dd2107034)
+Link to my Deepnote [here](https://deepnote.com/workspace/archanakalburgi-00bcc156-9f71-49bf-9a59-db8dd2107034)
 
 Email: archanakalburgi@gmail.com 
