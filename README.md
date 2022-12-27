@@ -1,10 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, welcome!!! 🙋🏻‍♀️
 
-I am **Archana Kalburgi**, currently I am invested in learning data structure and algorithms and how to tackle interview coding questions as I am looking for full-time opportunities. You can find my learnings related to the same [here](https://github.com/archanakalburgi/Algorithms) and [here](https://archanakalburgi.github.io/code_challenges/). My learnings related to Machine learning can be found at [TukTuk](https://archanakalburgi.github.io/tuktuk/) 🐢 
+Hi there! 👋 I am a machine learning and data engineering enthusiast. I recently completed my master's degree in machine learning, during which I took courses in a variety of related subjects such as machine learning, data mining, Python programming, deep learning, database management systems, and natural language processing. I am passionate about staying up-to-date on the latest developments in these fields and enjoy sharing my knowledge and insights through my blog, TukTuk.
 
-Some of the courses I have completed includes Machine Learning: Fundamental and applications, Knowledge Discovery and Data Mining, Python Programming, Deep Learning, Introduction to Deep Learning and Business Applications, DBMS, Web Mining. I am currently invested in learning NLP techniques and concepts.
+I have gained deeper insights into machine learning algorithms through these projects
 
-I have gained deeper insights into machine learning algorithms through course project works
 - [Profile matcher](https://github.com/archanakalburgi/profile_matcher)
 - [Government policies and public sentiments](https://github.com/archanakalburgi/govt_policies_public_sentiments) 
 - [Named entity recognition](https://github.com/archanakalburgi/Named_Entity_Recognition)
