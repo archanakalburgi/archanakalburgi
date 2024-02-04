@@ -2,7 +2,7 @@
 
 Hi there! 👋 Thanks for stopping by, I am a machine learning and data engineering enthusiast. 
 
-These project have helped me gain deeper insights into machine learning algorithms.
+Dive into my repositories to explore my projects and collaborations in these exciting fields.
 
 - [Profile matcher](https://github.com/archanakalburgi/profile_matcher)
 - [Government policies and public sentiments](https://github.com/archanakalburgi/govt_policies_public_sentiments) 
