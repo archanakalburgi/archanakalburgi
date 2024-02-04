@@ -3,5 +3,3 @@
 Hi there!🙋🏻‍♀️ Thanks for stopping by, I am a machine learning and data engineering enthusiast. Dive into my repositories to explore my projects and collaborations in these exciting fields.
 
 Please feel free reach me out at [linkedin](https://www.linkedin.com/in/archana-kalburgi/) 
-
-Email: archanakalburgi@gmail.com 
