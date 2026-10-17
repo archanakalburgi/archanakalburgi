@@ -12,7 +12,6 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
 from pathlib import Path
 
 FEED_URL = os.environ.get("FEED_URL", "https://archanakalburgi.github.io/feed.xml")
@@ -52,8 +51,7 @@ def fetch_posts(url, limit):
         seen.add(slug)
 
         summary = shorten(clean(entry.findtext("a:summary", "", ATOM)))
-        published = entry.findtext("a:published", "", ATOM)
-        posts.append({"title": title, "url": href, "summary": summary, "date": published})
+        posts.append({"title": title, "url": href, "summary": summary})
         if len(posts) == limit:
             break
     return posts
@@ -65,11 +63,6 @@ def render(posts):
         line = f"- **[{post['title']}]({post['url']})**"
         if post["summary"]:
             line += f" — {post['summary']}"
-        try:
-            stamp = datetime.fromisoformat(post["date"]).strftime("%-d %b %Y")
-            line += f" <br><sub>{stamp}</sub>"
-        except ValueError:
-            pass
         lines.append(line)
     return "\n".join(lines)
 

@@ -1,20 +1,22 @@
-# Archana Kalburgi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/banner.svg" alt="Archana Kalburgi — retrieval systems that run on your own machine, measured not trusted" width="100%">
+</p>
 
-I build retrieval systems that run on your own machine — and I measure them instead of trusting them. Data engineering and ML systems by trade; local-first document intelligence the rest of the time.
+Data engineering and ML systems by trade; local-first document intelligence the rest of the time. I build things that search your files without sending them anywhere, then I measure whether they actually work.
 
-**Now · October 2026**
+## 🧭 Now · October 2026
 
 - 🔨 Building **FindFiles** — ask a folder of PDFs what you have and what you're still missing
 - 📏 Evaluating that pipeline one stage at a time: chunking, then metadata classification, retrieval ranking next
 - ✍️ Writing up each evaluation, numbers and all, at [archanakalburgi.github.io](https://archanakalburgi.github.io)
 
----
+## 🔎 FindFiles
 
-### 🔎 [FindFiles](https://github.com/archanakalburgi/findfiles)
+> Point it at a folder of PDFs and ask what you have — and what you're missing.
 
-Your documents are searchable by filename, not by meaning — and a download called `3yik1cp8js65.pdf` gives you nothing to type. Worse, the real question usually isn't *find this file*. It's *for this task, which of the required documents do I already have, and which am I missing?* Full-text search can tell you what's present; it can't tell you what's absent.
+Your documents are searchable by filename, not by meaning, and a download called `3yik1cp8js65.pdf` gives you nothing to type. Worse, the real question usually isn't *find this file*. It's *for this task, which of the required documents do I already have, and which am I missing?* Full-text search can tell you what's present; it can't tell you what's absent.
 
-FindFiles indexes a folder of PDFs (OCR fallback for scans), then answers both questions. Everything runs on-device — local embeddings, local classification through Ollama — so tax forms and medical records never leave the machine.
+FindFiles indexes a folder of PDFs (OCR fallback for scans), then answers both. Everything runs on-device — local embeddings, local classification through Ollama — so tax forms and medical records never leave the machine.
 
 ```
 What would you like to do?
@@ -26,25 +28,41 @@ What would you like to do?
 
 `python` · `chroma` · `sentence-transformers` · `llama3.2 / ollama` · `tesseract`
 
-### 🖼️ [Image Search with CLIP](https://github.com/archanakalburgi/Image_Search_OpenAI_Clip)
+**[→ github.com/archanakalburgi/findfiles](https://github.com/archanakalburgi/findfiles)**
 
-Describe a picture in plain language, get the picture back. Semantic matching between text and images, wrapped in a small Flask app.
+## 🖼️ Image Search with CLIP
+
+> Describe a picture in plain language, get the picture back.
+
+Semantic matching between text and images — embed a folder of images once, then retrieve them by description instead of by filename. Wrapped in a small Flask app.
 
 `python` · `clip` · `flask`
 
----
+**[→ github.com/archanakalburgi/Image_Search_OpenAI_Clip](https://github.com/archanakalburgi/Image_Search_OpenAI_Clip)**
 
-### Writing
+## ✍️ Writing
 
 Evaluations rather than tutorials — each one measured against a labeled set of 53 real government forms, on-device.
 
 <!-- POSTS:START -->
-- **[Evaluating metadata classification for a retrieval pipeline](https://archanakalburgi.github.io/2026/10/10/evaluating-metadata-classification.html)** — Retrieval was tuned, so I measured the next stage: how reliably a local model labels each document. Across input windows, more than half the document types stayed wrong, and the chunking… <br><sub>10 Oct 2026</sub>
-- **[Evaluating document chunking for retrieval pipeline](https://archanakalburgi.github.io/2026/06/26/evaluating-document-chunking.html)** — How I evaluated the chunking layer of FindFiles by sweeping chunk size, overlap, and splitting strategy against a labeled set of 53 real government forms, on-device. <br><sub>26 Jun 2026</sub>
-- **[Semantic File Search with LangChain and Chroma](https://archanakalburgi.github.io/2025/05/01/semantic-file-search.html)** — A walkthrough of a semantic file search assistant that indexes local documents and enables intelligent retrieval using vector embeddings. <br><sub>1 May 2025</sub>
+- **[Evaluating metadata classification for a retrieval pipeline](https://archanakalburgi.github.io/2026/10/10/evaluating-metadata-classification.html)** — Retrieval was tuned, so I measured the next stage: how reliably a local model labels each document. Across input windows, more than half the document types stayed wrong, and the chunking…
+- **[Evaluating document chunking for retrieval pipeline](https://archanakalburgi.github.io/2026/06/26/evaluating-document-chunking.html)** — How I evaluated the chunking layer of FindFiles by sweeping chunk size, overlap, and splitting strategy against a labeled set of 53 real government forms, on-device.
+- **[Semantic File Search with LangChain and Chroma](https://archanakalburgi.github.io/2025/05/01/semantic-file-search.html)** — A walkthrough of a semantic file search assistant that indexes local documents and enables intelligent retrieval using vector embeddings.
 <!-- POSTS:END -->
 
----
+<sub>↻ this section updates itself from the blog feed — see [`scripts/update_writing.py`](scripts/update_writing.py)</sub>
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&bg_color=0b1020&title_color=5eead4&text_color=97a6cc&icon_color=5eead4" alt="Most used languages" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archanakalburgi&bg_color=0b1020&color=eef2ff&line=5eead4&point=eef2ff&title_color=5eead4&area=true&hide_border=true&radius=8" alt="Contribution activity" width="100%">
+</p>
+
+## 🧰 More
 
 <details>
 <summary><b>The rest of the stack</b></summary>
@@ -70,6 +88,6 @@ Evaluations rather than tutorials — each one measured against a labeled set of
 
 </details>
 
----
+## 👋 Reach me
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/archana-kalburgi/) · read more at [archanakalburgi.github.io](https://archanakalburgi.github.io)
+[LinkedIn](https://www.linkedin.com/in/archana-kalburgi/) · [archanakalburgi.github.io](https://archanakalburgi.github.io)
