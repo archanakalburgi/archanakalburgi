@@ -4,12 +4,6 @@
 
 Data engineering and ML systems by trade; local-first document intelligence the rest of the time. I build things that search your files without sending them anywhere, then I measure whether they actually work.
 
-## 🧭 Now · October 2026
-
-- 🔨 Building **FindFiles** — ask a folder of PDFs what you have and what you're still missing
-- 📏 Evaluating that pipeline one stage at a time: chunking, then metadata classification, retrieval ranking next
-- ✍️ Writing up each evaluation, numbers and all, at [archanakalburgi.github.io](https://archanakalburgi.github.io)
-
 ## 🔎 FindFiles
 
 > Point it at a folder of PDFs and ask what you have — and what you're missing.
