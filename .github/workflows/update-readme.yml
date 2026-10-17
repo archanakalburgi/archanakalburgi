@@ -1,0 +1,35 @@
+name: Update README
+
+# Pulls the latest posts from the blog feed into the Writing section.
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, 06:17 UTC
+  workflow_dispatch: # run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh Writing section
+        run: python scripts/update_writing.py
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain README.md)" ]; then
+            echo "README unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Writing section from blog feed"
+          git push
