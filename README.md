@@ -55,11 +55,8 @@ Evaluations rather than tutorials — each one measured against a labeled set of
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&bg_color=0b1020&title_color=5eead4&text_color=97a6cc&icon_color=5eead4" alt="Most used languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=archanakalburgi&bg_color=0b1020&color=eef2ff&line=5eead4&point=eef2ff&title_color=5eead4&area=true&hide_border=true&radius=8" alt="Contribution activity" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0b1020&title_color=5eead4&text_color=97a6cc&icon_color=5eead4" alt="Most used languages" height="170">
+  <img src="https://streak-stats.demolab.com/?user=archanakalburgi&hide_border=true&disable_animations=true&background=0b1020&stroke=1b2448&ring=5eead4&fire=5eead4&currStreakNum=eef2ff&sideNums=eef2ff&currStreakLabel=5eead4&sideLabels=97a6cc&dates=97a6cc" alt="Contribution streak" height="170">
 </p>
 
 ## 🧰 More
