@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/banner.svg" alt="Archana Kalburgi — retrieval systems that run on your own machine, measured not trusted" width="100%">
 </p>
 
-Data engineering and ML systems by trade; local-first document intelligence the rest of the time. I build things that search your files without sending them anywhere, then I measure whether they actually work.
+Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey area, USA.
+
+I am professionally a data engineer / software engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/archana-kalburgi/).
 
 ## 🔎 FindFiles
 
