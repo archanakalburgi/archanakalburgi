@@ -25,7 +25,7 @@ A sample of my recent articles:
 - [Semantic File Search with LangChain and Chroma](https://archanakalburgi.github.io/2025/05/01/semantic-file-search.html)
 <!-- POSTS:END -->
 
-<sub>↻ this list updates itself from the blog feed — see [`scripts/update_writing.py`](scripts/update_writing.py)</sub>
+<!-- The list above is regenerated daily from the blog's Atom feed by scripts/update_writing.py. Edit that script, not the list. -->
 
 ## 🔎 FindFiles
 
