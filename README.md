@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/nyc-skyline-sunset.jpeg" alt="Lower Manhattan skyline at sunset" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/banner-sage.svg" alt="Archana Kalburgi — retrieval systems that run on your own machine" width="100%">
-</p>
-
 # Hi there ! 👋
 
 Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey area, USA.
