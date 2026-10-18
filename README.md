@@ -11,7 +11,7 @@ I am professionally a data engineer / software engineer. You can find me on
 or
 <a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="X" height="20"></a>.
 
-Apart from my day job, I build things of my own — the projects here on GitHub are those.
+Outside of work, I enjoy building small tools of my own — mostly around search, retrieval and data. The repositories here are those side projects.
 
 ## ✍️ Blog & Writing
 
