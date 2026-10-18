@@ -60,8 +60,8 @@ Semantic matching between text and images — embed a folder of images once, the
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0b1020&title_color=5eead4&text_color=97a6cc&icon_color=5eead4" alt="Most used languages" width="38%">
-  <img src="https://streak-stats.demolab.com/?user=archanakalburgi&hide_border=true&disable_animations=true&background=0b1020&stroke=1b2448&ring=5eead4&fire=5eead4&currStreakNum=eef2ff&sideNums=eef2ff&currStreakLabel=5eead4&sideLabels=97a6cc&dates=97a6cc" alt="Contribution streak" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=00000000&title_color=e05d44&text_color=768390&icon_color=e05d44" alt="Most used languages" width="38%">
+  <img src="https://streak-stats.demolab.com/?user=archanakalburgi&hide_border=true&disable_animations=true&background=00000000&stroke=768390&ring=e05d44&fire=e05d44&currStreakNum=768390&sideNums=768390&currStreakLabel=e05d44&sideLabels=768390&dates=768390" alt="Contribution streak" width="60%">
 </p>
 
 ## 🧰 More
