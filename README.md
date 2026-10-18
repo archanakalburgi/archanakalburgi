@@ -7,9 +7,9 @@
 Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey area, USA.
 
 I am professionally a data engineer / software engineer. You can find me on
-<a href="https://www.linkedin.com/in/archana-kalburgi/"><img src="https://img.shields.io/badge/LinkedIn-9caf88?style=flat-square&logo=linkedin&logoColor=2e3a29" alt="LinkedIn" height="20"></a>
+<a href="https://www.linkedin.com/in/archana-kalburgi/"><img src="https://img.shields.io/badge/LinkedIn-556b2f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"></a>
 or
-<a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/-9caf88?style=flat-square&logo=x&logoColor=2e3a29" alt="X" height="20"></a>.
+<a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/-556b2f?style=flat-square&logo=x&logoColor=white" alt="X" height="20"></a>.
 
 Beyond my day job, I work on ideas of my own. These repositories bring them to life.
 
@@ -60,8 +60,8 @@ Semantic matching between text and images — embed a folder of images once, the
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=dfe7d8&title_color=46573f&text_color=5c6b55&icon_color=6d8364" alt="Most used languages" width="38%">
-  <img src="https://streak-stats.demolab.com/?user=archanakalburgi&hide_border=true&disable_animations=true&background=dfe7d8&stroke=bcc9b2&ring=6d8364&fire=6d8364&currStreakNum=3f4f3a&sideNums=3f4f3a&currStreakLabel=46573f&sideLabels=5c6b55&dates=5c6b55" alt="Contribution streak" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=556b2f&title_color=e8edc9&text_color=dfe4c0&icon_color=c5cf8f" alt="Most used languages" width="38%">
+  <img src="https://streak-stats.demolab.com/?user=archanakalburgi&hide_border=true&disable_animations=true&background=556b2f&stroke=6d8240&ring=c5cf8f&fire=c5cf8f&currStreakNum=f4f6e8&sideNums=f4f6e8&currStreakLabel=c5cf8f&sideLabels=dfe4c0&dates=dfe4c0" alt="Contribution streak" width="60%">
 </p>
 
 ## 🧰 More
