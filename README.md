@@ -6,7 +6,7 @@ Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey
 
 I am professionally a data engineer / software engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/archana-kalburgi/).
 
-Apart from my day job, I build things of my own — the projects here on GitHub are those. I write about them on my blog, [archanakalburgi.github.io](https://archanakalburgi.github.io).
+Apart from my day job, I build things of my own — the projects here on GitHub are those.
 
 ## 🔎 FindFiles
 
@@ -40,7 +40,7 @@ Semantic matching between text and images — embed a folder of images once, the
 
 ## ✍️ Writing
 
-Evaluations rather than tutorials — each one measured against a labeled set of 53 real government forms, on-device.
+I also keep a blog at [archanakalburgi.github.io](https://archanakalburgi.github.io), where I write up what I build and what I measure — evaluations rather than tutorials.
 
 <!-- POSTS:START -->
 - **[Evaluating metadata classification for a retrieval pipeline](https://archanakalburgi.github.io/2026/10/10/evaluating-metadata-classification.html)** — Retrieval was tuned, so I measured the next stage: how reliably a local model labels each document. Across input windows, more than half the document types stayed wrong, and the chunking…
