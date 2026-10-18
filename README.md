@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/nyc-skyline.jpeg" alt="Lower Manhattan skyline at sunset" width="100%">
+  <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/nyc-skyline-sunset.jpeg" alt="Lower Manhattan skyline at sunset" width="100%">
 </p>
 
 # Hi there ! 👋
