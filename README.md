@@ -6,6 +6,8 @@ Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey
 
 I am professionally a data engineer / software engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/archana-kalburgi/).
 
+Apart from my day job, I build things of my own — the projects here on GitHub are those.
+
 ## 🔎 FindFiles
 
 > Point it at a folder of PDFs and ask what you have — and what you're missing.
