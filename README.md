@@ -9,7 +9,7 @@ Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey
 I am professionally a data engineer / software engineer. You can find me on
 <a href="https://www.linkedin.com/in/archana-kalburgi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"></a>
 or
-<a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="X" height="20"></a>.
+<a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="X" height="20"></a>.
 
 Apart from my day job, I build things of my own — the projects here on GitHub are those.
 
