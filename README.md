@@ -2,11 +2,30 @@
   <img src="https://raw.githubusercontent.com/archanakalburgi/archanakalburgi/main/assets/banner.svg" alt="Archana Kalburgi — retrieval systems that run on your own machine, measured not trusted" width="100%">
 </p>
 
+# Hi there ! 👋
+
 Hello 👋, I'm Archana Kalburgi, and currently from the New York – New Jersey area, USA.
 
-I am professionally a data engineer / software engineer. You can find me on [LinkedIn](https://www.linkedin.com/in/archana-kalburgi/).
+I am professionally a data engineer / software engineer. You can find me on
+<a href="https://www.linkedin.com/in/archana-kalburgi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"></a>
+or
+<a href="https://x.com/archanakalburgi"><img src="https://img.shields.io/badge/X-1a1a1a?style=flat-square&logo=x&logoColor=white" alt="X" height="20"></a>.
 
 Apart from my day job, I build things of my own — the projects here on GitHub are those.
+
+## ✍️ Blog & Writing
+
+Apart from coding, I also maintain a blog — you can find my articles at [archanakalburgi.github.io](https://archanakalburgi.github.io), where I write up what I build and what I measure.
+
+A sample of my recent articles:
+
+<!-- POSTS:START -->
+- [Evaluating metadata classification for a retrieval pipeline](https://archanakalburgi.github.io/2026/10/10/evaluating-metadata-classification.html)
+- [Evaluating document chunking for retrieval pipeline](https://archanakalburgi.github.io/2026/06/26/evaluating-document-chunking.html)
+- [Semantic File Search with LangChain and Chroma](https://archanakalburgi.github.io/2025/05/01/semantic-file-search.html)
+<!-- POSTS:END -->
+
+<sub>↻ this list updates itself from the blog feed — see [`scripts/update_writing.py`](scripts/update_writing.py)</sub>
 
 ## 🔎 FindFiles
 
@@ -38,19 +57,7 @@ Semantic matching between text and images — embed a folder of images once, the
 
 **[→ github.com/archanakalburgi/Image_Search_OpenAI_Clip](https://github.com/archanakalburgi/Image_Search_OpenAI_Clip)**
 
-## ✍️ Writing
-
-I also keep a blog at [archanakalburgi.github.io](https://archanakalburgi.github.io), where I write up what I build and what I measure — evaluations rather than tutorials.
-
-<!-- POSTS:START -->
-- **[Evaluating metadata classification for a retrieval pipeline](https://archanakalburgi.github.io/2026/10/10/evaluating-metadata-classification.html)** — Retrieval was tuned, so I measured the next stage: how reliably a local model labels each document. Across input windows, more than half the document types stayed wrong, and the chunking…
-- **[Evaluating document chunking for retrieval pipeline](https://archanakalburgi.github.io/2026/06/26/evaluating-document-chunking.html)** — How I evaluated the chunking layer of FindFiles by sweeping chunk size, overlap, and splitting strategy against a labeled set of 53 real government forms, on-device.
-- **[Semantic File Search with LangChain and Chroma](https://archanakalburgi.github.io/2025/05/01/semantic-file-search.html)** — A walkthrough of a semantic file search assistant that indexes local documents and enables intelligent retrieval using vector embeddings.
-<!-- POSTS:END -->
-
-<sub>↻ this section updates itself from the blog feed — see [`scripts/update_writing.py`](scripts/update_writing.py)</sub>
-
-## 📈 GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanakalburgi&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=0b1020&title_color=5eead4&text_color=97a6cc&icon_color=5eead4" alt="Most used languages" height="160">
@@ -82,7 +89,3 @@ I also keep a blog at [archanakalburgi.github.io](https://archanakalburgi.github
 - [Machine-learning-and-deep-learning-projects](https://github.com/archanakalburgi/Machine-learning-and-deep-learning-projects) — coursework-era notebooks
 
 </details>
-
-## 👋 Reach me
-
-[LinkedIn](https://www.linkedin.com/in/archana-kalburgi/) · [archanakalburgi.github.io](https://archanakalburgi.github.io)

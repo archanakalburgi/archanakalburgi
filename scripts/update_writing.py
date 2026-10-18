@@ -60,10 +60,7 @@ def fetch_posts(url, limit):
 def render(posts):
     lines = []
     for post in posts:
-        line = f"- **[{post['title']}]({post['url']})**"
-        if post["summary"]:
-            line += f" — {post['summary']}"
-        lines.append(line)
+        lines.append(f"- [{post['title']}]({post['url']})")
     return "\n".join(lines)
 
 
